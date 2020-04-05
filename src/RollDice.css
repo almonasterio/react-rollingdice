@@ -1,0 +1,19 @@
+.dice-container {
+  display: flex;
+  justify-content: center;
+
+}
+
+button {
+
+  background-color: rgb(231, 53, 53);
+  width: 15em;
+  padding:1.5em;
+  color:white;
+  /* font-size: 1.2em; */
+  border: none;
+  border-radius: 10px;
+  margin-top: 3em;
+  text-align: center;
+
+}
